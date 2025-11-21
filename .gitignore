@@ -1,0 +1,6 @@
+.DS_Store
+*.png
+*plots
+__pycache__/
+results.json
+metrics.txt
