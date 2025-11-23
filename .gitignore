@@ -2,5 +2,4 @@
 *.png
 *plots
 __pycache__/
-results.json
-metrics.txt
+result/
